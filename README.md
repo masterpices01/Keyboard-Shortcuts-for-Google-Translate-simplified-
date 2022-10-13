@@ -9,5 +9,5 @@ https://hibbard.eu/tampermonkey-tutorial/
 
 default hotkey:
 
-* Delete source content[alt+a]
-* Listen source content[alt+e]
+* Delete source content : [alt+a]
+* Listen source content : [alt+e]
