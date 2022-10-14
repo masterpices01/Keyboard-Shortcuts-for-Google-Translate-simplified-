@@ -11,3 +11,6 @@ default hotkey:
 
 * Delete source content : [alt+a]
 * Listen source content : [alt+e]
+
+
+or you can install this chrome extension for google translate as your personal chrome extension
