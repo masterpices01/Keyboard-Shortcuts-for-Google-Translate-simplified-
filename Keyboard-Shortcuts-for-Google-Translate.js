@@ -61,6 +61,7 @@
     search page to google chrome, here's the url I used to set:
     https://translate.google.com/?source=en&sl=en&tl=de&op=translate&text=%s
     */
+    // remember to allow tampermonky to accesss your website's url. so that it can detect your webpage, and set the execution at the start of the page.
 
 
 
